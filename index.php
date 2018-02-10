@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>PHP TEST</title>
+	<title>RSX9998</title>
 </head>
 <body>
 <?php echo '<p align="right"><h1>Welcome!</h1></p>
@@ -27,7 +27,7 @@
 	<br><br><br><a href="http://veselcraft.ru/#" onclick="report();">REPORT</a> | 
 	<a href="http://veselcraft.ru/index.php?lu=ru">Русский язык</a> | 
 	<a href="http://veselcraft.ru/m/">Mobile Version</a> |
-	<a href="http://veselcraft.ru/97/">Version For Old Browsers</a>
+	<a href="RSX9998.github.io/#/%.html">TestPage</a>
 	<div id="adddd"></div>
 </div>
 <div id="sonic">
